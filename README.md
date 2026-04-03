@@ -1,19 +1,149 @@
-<h1 align="center">Hi 👋, I'm Athul Krishna</h1>
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Data Science & Machine Learning<br>💬 Ask me about<br>⚡ Fun fact
+# 👋 Hi, I'm Athul!
 
+**MCA Student | Aspiring Data Analyst & Data Scientist**
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Athul64&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Athul64&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Athul64&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Athul64&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+Welcome to my GitHub profile! I'm a passionate developer and data enthusiast currently pursuing my Master of Computer Applications. I'm focused on building intelligent, data-driven applications and uncovering actionable insights from complex datasets.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Athul64&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 About Me
+
+I'm a fresher transitioning from learning programming fundamentals to building **AI-integrated applications** with a strong focus on **data-driven solutions**. I believe in leveraging technology to solve real-world problems and am constantly exploring the intersection of data analytics, machine learning, and intelligent systems.
+
+Currently, I'm deepening my expertise in:
+- 📊 Data analytics and interpretation
+- 🤖 Machine learning and AI technologies
+- 💾 Database design and optimization
+- 🔍 Turning raw data into actionable insights
+
+---
+
+## 💻 Tech Stack
+
+**Languages:**
+- Python • Java • SQL • JavaScript
+
+**Frontend:**
+- HTML • CSS • ReactJS
+
+**Backend:**
+- Node.js
+
+**Databases:**
+- MongoDB • MySQL
+
+**Data Science & ML Libraries:**
+- Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • TensorFlow
+
+**Core Competencies:**
+- Data Analysis & Interpretation
+- Database Management Systems (DBMS) & Normalization (1NF–5NF)
+- SQL & Advanced Data Querying
+- Problem Solving & Logical Reasoning
+- API Integration (AI APIs: Gemini, etc.)
+- Basic Machine Learning Concepts
+
+**Tools & Technologies:**
+- SQL databases (relational design & optimization)
+- Python (data analysis & ML)
+- AI APIs & LLM Integration
+- Git & Version Control
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Athul64&show_icons=true&theme=radical&hide=contribs)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Athul64&layout=compact&theme=radical)
+
+---
+
+## 🌟 Featured Projects
+
+### 🚨 CrisisHub — AI-Powered Crisis Response System
+An intelligent emergency response platform designed to streamline crisis reporting and coordination. The system leverages AI APIs (Gemini) to analyze situations in real-time and assist in informed decision-making, demonstrating my ability to integrate cutting-edge AI technologies into practical applications.
+
+**Tech Stack:** Python, AI APIs, Database Integration
+
+---
+
+### 📊 Database Management System Projects
+Designed and implemented structured, production-grade databases with comprehensive normalization (1NF–5NF). These projects showcase my expertise in:
+- Efficient data organization and integrity
+- Query optimization and performance tuning
+- Relational schema design
+- Complex join operations and data retrieval
+
+**Tech Stack:** SQL, DBMS, Database Design Principles
+
+---
+
+### 📈 Academic Data-Oriented Projects
+Developed multiple data-driven projects as part of my MCA coursework, focusing on:
+- Data handling, cleaning, and validation
+- Advanced SQL querying and aggregation
+- Data analysis and visualization
+- Extracting meaningful insights from diverse datasets
+
+**Tech Stack:** Python, SQL, Data Analysis Tools
+
+---
+
+## 🎓 Achievements & Certifications
+
+✅ **2 Coursera Certifications** — Completed specialized courses in data and computer science domains
+
+✅ **4-Month Web Development Internship** — Gained hands-on experience in full-stack development and professional coding practices
+
+✅ **AI-Powered Crisis Response Project** — Successfully integrated Gemini API to build an intelligent crisis management system
+
+✅ **Strong Academic Foundation** — Excelled in DBMS, Computer Organization, Data Structures, and Data Concepts
+
+---
+
+## 🚀 Currently Working On
+
+- 🔭 Deepening expertise in **Data Analytics and Data Science** methodologies
+- 📚 Mastering **machine learning algorithms** and their real-world applications
+- 💡 Building **data-driven applications** that solve tangible problems
+- 🧠 Improving **problem-solving skills** and logical reasoning for competitive programming
+- 🔗 Exploring **advanced data integration** and API-driven architectures
+
+---
+
+## 💡 What Excites Me
+
+- 🎯 **Data to Insights** — Transforming raw data into compelling, actionable stories
+- 🤖 **AI & ML** — Building intelligent systems that learn and adapt
+- 🏗️ **Smart Solutions** — Creating data-driven applications that make a real-world impact
+- 🌐 **Open Source** — Contributing to and learning from the developer community
+- 📖 **Continuous Learning** — Staying curious and updated with emerging technologies
+
+---
+
+## 🔗 Let's Connect!
+
+I'd love to collaborate on interesting projects, discuss data science, or explore opportunities together!
+
+- 💼 **LinkedIn:** [Add your LinkedIn URL]
+- 📧 **Email:** [your-email@example.com]
+- 🐙 **GitHub:** github.com/Athul64
+- 🌐 **Portfolio:** [Add your portfolio URL, if available]
+
+---
+
+## 🎉 Fun Fact
+
+I've journeyed from learning programming fundamentals to building **AI-integrated applications** and now focusing on **data-driven solutions** — each step strengthening my ability to create intelligent systems that address real-world challenges!
+
+---
+
+<p align="center">
+  <strong>🤝 Always open to collaboration, mentorship, and meaningful technical conversations!</strong><br>
+  <i>Let's build something amazing together!</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-brightgreen?style=for-the-badge" alt="Status">
+</p>
