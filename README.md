@@ -1,149 +1,131 @@
-# 👋 Hi, I'm Athul!
+<h1 align="center">👋 Hey, I'm Athul Krishna</h1>
+<h3 align="center">🎓 MCA Student | 📊 Aspiring Data Analyst | 🤖 Future Data Scientist</h3>
 
-**MCA Student | Aspiring Data Analyst & Data Scientist**
-
-Welcome to my GitHub profile! I'm a passionate developer and data enthusiast currently pursuing my Master of Computer Applications. I'm focused on building intelligent, data-driven applications and uncovering actionable insights from complex datasets.
-
----
-
-## 🎯 About Me
-
-I'm a fresher transitioning from learning programming fundamentals to building **AI-integrated applications** with a strong focus on **data-driven solutions**. I believe in leveraging technology to solve real-world problems and am constantly exploring the intersection of data analytics, machine learning, and intelligent systems.
-
-Currently, I'm deepening my expertise in:
-- 📊 Data analytics and interpretation
-- 🤖 Machine learning and AI technologies
-- 💾 Database design and optimization
-- 🔍 Turning raw data into actionable insights
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Enthusiast;AI+Explorer;Machine+Learning+Learner;Building+Smart+Solutions;Always+Learning+🚀&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 💻 Tech Stack
+## 🚀 About Me
 
-**Languages:**
-- Python • Java • SQL • JavaScript
+💡 I'm an MCA student passionate about **data-driven problem solving** and **AI-powered systems**.  
+I enjoy transforming raw data into meaningful insights and building intelligent applications that solve real-world problems.
 
-**Frontend:**
-- HTML • CSS • ReactJS
-
-**Backend:**
-- Node.js
-
-**Databases:**
-- MongoDB • MySQL
-
-**Data Science & ML Libraries:**
-- Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • TensorFlow
-
-**Core Competencies:**
-- Data Analysis & Interpretation
-- Database Management Systems (DBMS) & Normalization (1NF–5NF)
-- SQL & Advanced Data Querying
-- Problem Solving & Logical Reasoning
-- API Integration (AI APIs: Gemini, etc.)
-- Basic Machine Learning Concepts
-
-**Tools & Technologies:**
-- SQL databases (relational design & optimization)
-- Python (data analysis & ML)
-- AI APIs & LLM Integration
-- Git & Version Control
+- 🔍 Exploring **Data Analytics & Machine Learning**
+- 📊 Turning data into **actionable insights**
+- 🤖 Building **AI-integrated applications**
+- 🧠 Constantly improving **problem-solving skills**
 
 ---
 
-## 📈 GitHub Stats
+## 🧠 Tech Universe
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Athul64&show_icons=true&theme=radical&hide=contribs)
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,sql" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Athul64&layout=compact&theme=radical)
+### 🌐 Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 📊 Data Science & ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+📌 Libraries: Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn  
 
 ---
 
-## 🌟 Featured Projects
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Athul64&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Athul64&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🔥 Featured Projects
 
 ### 🚨 CrisisHub — AI-Powered Crisis Response System
-An intelligent emergency response platform designed to streamline crisis reporting and coordination. The system leverages AI APIs (Gemini) to analyze situations in real-time and assist in informed decision-making, demonstrating my ability to integrate cutting-edge AI technologies into practical applications.
+🧠 AI-based platform for real-time emergency response coordination  
+⚡ Uses AI APIs (Gemini) for intelligent decision-making  
 
-**Tech Stack:** Python, AI APIs, Database Integration
-
----
-
-### 📊 Database Management System Projects
-Designed and implemented structured, production-grade databases with comprehensive normalization (1NF–5NF). These projects showcase my expertise in:
-- Efficient data organization and integrity
-- Query optimization and performance tuning
-- Relational schema design
-- Complex join operations and data retrieval
-
-**Tech Stack:** SQL, DBMS, Database Design Principles
+**Tech:** Python • AI APIs • Databases  
 
 ---
 
-### 📈 Academic Data-Oriented Projects
-Developed multiple data-driven projects as part of my MCA coursework, focusing on:
-- Data handling, cleaning, and validation
-- Advanced SQL querying and aggregation
-- Data analysis and visualization
-- Extracting meaningful insights from diverse datasets
+### 📊 DBMS Projects
+💾 Designed normalized databases (1NF–5NF)  
+📈 Focus on performance, integrity & optimization  
 
-**Tech Stack:** Python, SQL, Data Analysis Tools
+**Tech:** SQL • DBMS  
 
 ---
 
-## 🎓 Achievements & Certifications
+### 📈 Data-Oriented Projects
+📊 Data cleaning, analysis & visualization  
+🔍 Extracting meaningful insights from datasets  
 
-✅ **2 Coursera Certifications** — Completed specialized courses in data and computer science domains
-
-✅ **4-Month Web Development Internship** — Gained hands-on experience in full-stack development and professional coding practices
-
-✅ **AI-Powered Crisis Response Project** — Successfully integrated Gemini API to build an intelligent crisis management system
-
-✅ **Strong Academic Foundation** — Excelled in DBMS, Computer Organization, Data Structures, and Data Concepts
+**Tech:** Python • SQL  
 
 ---
 
-## 🚀 Currently Working On
+## 🎓 Achievements
 
-- 🔭 Deepening expertise in **Data Analytics and Data Science** methodologies
-- 📚 Mastering **machine learning algorithms** and their real-world applications
-- 💡 Building **data-driven applications** that solve tangible problems
-- 🧠 Improving **problem-solving skills** and logical reasoning for competitive programming
-- 🔗 Exploring **advanced data integration** and API-driven architectures
-
----
-
-## 💡 What Excites Me
-
-- 🎯 **Data to Insights** — Transforming raw data into compelling, actionable stories
-- 🤖 **AI & ML** — Building intelligent systems that learn and adapt
-- 🏗️ **Smart Solutions** — Creating data-driven applications that make a real-world impact
-- 🌐 **Open Source** — Contributing to and learning from the developer community
-- 📖 **Continuous Learning** — Staying curious and updated with emerging technologies
+🏆 2 Coursera Certifications  
+🏆 4-Month Web Development Internship  
+🏆 Built AI-powered CrisisHub system  
+🏆 Strong foundation in DBMS & Data Concepts  
 
 ---
 
-## 🔗 Let's Connect!
+## 🚧 Currently Leveling Up
 
-I'd love to collaborate on interesting projects, discuss data science, or explore opportunities together!
-
-- 💼 **LinkedIn:** [Add your LinkedIn URL]
-- 📧 **Email:** [your-email@example.com]
-- 🐙 **GitHub:** github.com/Athul64
-- 🌐 **Portfolio:** [Add your portfolio URL, if available]
+- 📊 Data Analytics & Visualization  
+- 🤖 Machine Learning Algorithms  
+- 🧠 Problem Solving & Aptitude  
+- 🔗 API-based Data Systems  
 
 ---
 
-## 🎉 Fun Fact
+## 🌐 Connect With Me
 
-I've journeyed from learning programming fundamentals to building **AI-integrated applications** and now focusing on **data-driven solutions** — each step strengthening my ability to create intelligent systems that address real-world challenges!
+<p align="center">
+  <a href="https://www.linkedin.com/in/athulkrishna23/">
+    <img src="https://img.shields.io/badge/LinkedIn-Athul%20Krishna-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  
+  <a href="mailto:athulsylesh23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail"/>
+  </a>
+
+  <a href="https://github.com/Athul64">
+    <img src="https://img.shields.io/badge/GitHub-Athul64-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+🚀 From writing basic programs → to building **AI-powered systems** → now diving deep into **data science**
 
 ---
 
 <p align="center">
-  <strong>🤝 Always open to collaboration, mentorship, and meaningful technical conversations!</strong><br>
-  <i>Let's build something amazing together!</i>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-brightgreen?style=for-the-badge" alt="Status">
+  💬 <b>Let’s collaborate and build something impactful!</b>
 </p>
