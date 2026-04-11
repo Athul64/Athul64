@@ -46,10 +46,9 @@ I enjoy transforming raw data into meaningful insights and building intelligent 
 ---
 
 ## 📊 GitHub Analytics
-
+### 🐍 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Athul64&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=Athul64&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -98,6 +97,14 @@ I enjoy transforming raw data into meaningful insights and building intelligent 
 
 ---
 
+### 🏆 Milestones
+- 🎓 **MCA Student** honing advanced computing skills.
+- 💼 Completed a **4-Month Web Development Internship**.
+- 📜 **Coursera Certified** in Data Science and Analytics.
+- 🧩 Strong foundation in **Quantitative Aptitude** and **Problem Solving**.
+
+
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -116,16 +123,11 @@ I enjoy transforming raw data into meaningful insights and building intelligent 
 
 ---
 
-## ⚡ Fun Fact
-
-🚀 From writing basic programs → to building **AI-powered systems** → now diving deep into **data science**
-
----
+<p align="center">
+  <b>⚡ Fun Fact:</b> I started with basic "Hello World" scripts and now I'm building AI systems that think!
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge"/>
 </p>
 
-<p align="center">
-  💬 <b>Let’s collaborate and build something impactful!</b>
-</p>
